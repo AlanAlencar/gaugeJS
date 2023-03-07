@@ -2,6 +2,11 @@
 
 Este é um simples projeto que cria uma função em JS para renderizar um gauge simples em uma tag `canvas` no html.
 
+## Modelo do gauge
+
+O gauge raiz é bem simples e será como mostrado nos exemplos abaixo. Uma linha representará o percentual e ele será mostrado no centro da circunferência.
+
+![Modelo do Gauge](gauge.png)
 ## Como usar
 
 Baixe o código deste repositório seja vir um fork ou um clone e simplesmente abra o html com seu navegador preferido.
